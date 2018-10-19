@@ -1,3 +1,5 @@
+Capybara.app = Battle
+
 feature 'Enter names' do
   scenario 'submitting names' do
     sign_in_and_play
